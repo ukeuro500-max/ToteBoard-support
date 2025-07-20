@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="toteboard-logo.png" alt="ToteBoard Logo" width="200"/>
+<img src="AB0291E5-A142-414F-9AA4-699EE1D15360.png" alt="ToteBoard Logo" width="200"/>
 </p>
 
 ---
