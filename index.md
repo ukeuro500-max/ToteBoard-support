@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="toteboard-logo.png" alt="ToteBoard Logo" width="200"/>
+</p>
+
 ---
 title: ToteBoard App
 ---
