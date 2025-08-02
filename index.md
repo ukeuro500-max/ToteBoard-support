@@ -30,7 +30,7 @@ ToteBoard does **not collect or transmit any personal data**. All betting record
 ## 📧 Support
 
 Need help or have feedback? Contact us at:  
-**support@example.com**
+**tulia@mail.com**
 
 ---
 
